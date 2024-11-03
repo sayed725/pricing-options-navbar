@@ -8,6 +8,7 @@ function App() {
     <>
      <Header></Header>
      <button className="btn btn-active btn-accent">Accent</button>
+     <button className="btn btn-active btn-accent">Accent</button>
     </>
   )
 }
